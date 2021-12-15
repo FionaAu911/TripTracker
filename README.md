@@ -1,1 +1,3 @@
 # TripTracker
+
+The user can use this app to track the specific locations they’ve been to. For each location, there is an associated purpose, main companion, date, and duration spent. If no main companion is listed, then the program will automatically fill the custom tableview cell as having “Self” as the main companion. Once the user saves, the information they just filled out will be input into the tableview. The user can also check their trip stats which tell them information such as the total number of trips they’ve tracked with the app. When they check what purpose they’ve spent the most time on, a customized message will show up telling the user something.
